@@ -1,0 +1,46 @@
+{
+  "name": "Zapfolio Tokenlist",
+  "logoURI": "https://drive.google.com/file/d/17JDq0cpbpuuHUEJp0kyHqqXQmJnHpibI/view?usp=sharing",
+  "keywords": [
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2022-08-24T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 7700,
+      "address": "0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe",
+      "decimals": 18,
+      "name": "Zapfolio",
+      "symbol": "ZAP",
+      "logoURI": "https://drive.google.com/file/d/17JDq0cpbpuuHUEJp0kyHqqXQmJnHpibI/view?usp=sharing"
+    },
+    {
+      "chainId": 7700,
+      "address": "0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5",
+      "decimals": 18,
+      "name": "Wrapped CANTO",
+      "symbol": "WCANTO",
+      "logoURI": "https://drive.google.com/file/d/1u6Fu5XCO9CR7_T0GfgUbx6IlKdJcvF4q/view?usp=sharing"
+    },
+    {
+      "chainId": 7700,
+      "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+      "decimals": 18,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 7700,
+      "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+      "decimals": 18,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    }
+  ]
+}
