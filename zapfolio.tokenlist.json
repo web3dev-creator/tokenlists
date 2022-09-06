@@ -11,7 +11,7 @@
   "timestamp": "2022-08-24T12:00:00+00:00",
   "tokens": [
     {
-      "chainId": 568,
+      "chainId": 43114,
       "address": "0x152f98C4724d7C520Bd6111E173D1d1132ECc34b",
       "decimals": 18,
       "name": "Zapfolio",
