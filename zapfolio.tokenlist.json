@@ -11,7 +11,7 @@
   "timestamp": "2022-08-24T12:00:00+00:00",
   "tokens": [
     {
-      "chainId": 43114,
+      "chainId": 42161,
       "address": "0x152f98C4724d7C520Bd6111E173D1d1132ECc34b",
       "decimals": 18,
       "name": "Zapfolio",
@@ -19,24 +19,24 @@
       "logoURI": "https://raw.githubusercontent.com/zapfolio/tokenlists/main/logo_48.png"
     },
     {
-      "chainId": 43114,
-      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "decimals": 18,
-      "name": "Wrapped AVAX",
-      "symbol": "WAVAX",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
     },
     {
-      "chainId": 43114,
-      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "chainId": 42161,
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "decimals": 18,
       "name": "USDT",
       "symbol": "USDT",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
     },
     {
-      "chainId": 43114,
-      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "chainId": 42161,
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "decimals": 18,
       "name": "USDC",
       "symbol": "USDC",
