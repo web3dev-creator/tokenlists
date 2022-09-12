@@ -16,7 +16,7 @@
       "decimals": 18,
       "name": "Zapfolio",
       "symbol": "ZAP",
-      "logoURI": "https://raw.githubusercontent.com/zapfolio/tokenlists/main/logo_48.png"
+      "logoURI": "https://raw.githubusercontent.com/zapfolio/tokenlists/main/logo.png"
     },
     {
       "chainId": 42161,
