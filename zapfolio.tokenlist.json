@@ -12,14 +12,6 @@
   "tokens": [
     {
       "chainId": 42161,
-      "address": "0xAB96E03B9bDB316298bb77142fdBD6636872EEA7",
-      "decimals": 18,
-      "name": "Zapfolio",
-      "symbol": "ZAP",
-      "logoURI": "https://raw.githubusercontent.com/web3dev-creator/tokenlists/main/logotoken.png"
-    },
-    {
-      "chainId": 42161,
       "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "decimals": 18,
       "name": "Wrapped ETH",
